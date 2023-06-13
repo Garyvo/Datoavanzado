@@ -1,0 +1,16 @@
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.AssemblyInfo.cs
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Documents\gary\Datosavanzado\bin\Debug\net5.0\Datosavanzado.exe
+C:\Users\Upqroo\Documents\gary\Datosavanzado\bin\Debug\net5.0\Datosavanzado.deps.json
+C:\Users\Upqroo\Documents\gary\Datosavanzado\bin\Debug\net5.0\Datosavanzado.runtimeconfig.json
+C:\Users\Upqroo\Documents\gary\Datosavanzado\bin\Debug\net5.0\Datosavanzado.runtimeconfig.dev.json
+C:\Users\Upqroo\Documents\gary\Datosavanzado\bin\Debug\net5.0\Datosavanzado.dll
+C:\Users\Upqroo\Documents\gary\Datosavanzado\bin\Debug\net5.0\Datosavanzado.pdb
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.dll
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\refint\Datosavanzado.dll
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.pdb
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\Datosavanzado.genruntimeconfig.cache
+C:\Users\Upqroo\Documents\gary\Datosavanzado\obj\Debug\net5.0\ref\Datosavanzado.dll
